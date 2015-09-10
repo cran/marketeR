@@ -1,0 +1,17 @@
+5c7683173a6ababe1939b31852742e38 *DESCRIPTION
+8101a15dc67104c7e2380dda7550f736 *INDEX
+c8f0228b7ccd3271889a41091151a5e0 *NAMESPACE
+fb5065e403ca033f85a1449204d632e2 *NEWS.md
+226ad175dcd67aa511153a42e39e223e *R/AutoReport.R
+f6741ade8b1d2b28b715e8400c60a9c6 *R/FacebookInsightsDashboard.R
+4a10feb3e614834926ca3c02e6629f1b *R/PerformanceForecast.R
+3f6c6b2d0df37deaf637046794b4739f *R/Settings.R
+bd8268156ca3063abac18543d2fd7d4f *R/WeekSummary.R
+b17b552593d9bbbea9155eba1ed31812 *README.md
+3f7cf9c25760f948d196824d567b1872 *inst/AutoReport/AutoReport.Rmd
+ed497942a2f2e94cebcf78ac94569392 *inst/FacebookInsightsDashboard/server.R
+5cb930b3086016fbd67fd40d29568f08 *inst/FacebookInsightsDashboard/ui.R
+9242afc660ef162b3188c1d17d6e5181 *man/AutoReport.Rd
+f185f13c7e08c122572ce93da2b3a740 *man/FacebookInsightsDashboard.Rd
+fa3a5ddb20b839c7c694dd3301748b64 *man/PerformanceForecast.Rd
+81ac88e577b81667875ed9aea43e61ca *man/WeekSummary.Rd

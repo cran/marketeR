@@ -1,0 +1,9 @@
+AutoReport              A detailed report of your website performance
+                        during a given month
+FacebookInsightsDashboard
+                        A simple dashboard for social media managers who
+                        use Facebook insights
+PerformanceForecast     A prediction of your website performance using
+                        auto-ARIMA model
+WeekSummary             A report of your website performance during the
+                        past 7 days
