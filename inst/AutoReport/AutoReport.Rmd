@@ -1,8 +1,8 @@
-<!------------------------------------------------------------------------------
-AutoReport.Rmd file in marketeR package - made with <3 by fmikaelian
-------------------------------------------------------------------------------->
-
 ```{r, echo=FALSE, message=FALSE}
+#-------------------------------------------------------------------------------
+# AutoReport.Rmd file in marketeR package - made with <3 by fmikaelian
+#-------------------------------------------------------------------------------
+
 # Set up general .rmd options --------------------------------------------------
 options(digits = 0, scipen = 999)
 monthName <- format(basicMetrics.data$yearMonth[nrow(basicMetrics.data)], '%B %Y')

@@ -17,7 +17,7 @@
 #' @note The \code{AutoReport} function will generate a shareable HTML file
 #'  in your working directory.
 #' @examples \dontrun{
-#'   AutoReport(start.date = "2015-01-01", end.date = "2015-07-30", 
+#'   AutoReport(start.date = "2015-01-01", end.date = "2015-07-30",
 #'   table.id = "ga:XXXXXXX")}
 #' @export
 #-------------------------------------------------------------------------------
@@ -451,6 +451,6 @@ AutoReport <- function(start.date, end.date, table.id) {
     stop("Could not find given directory. Try re-installing marketeR.", call. = FALSE)
   }
 
-  rmarkdown::render(rmdDir)
+  rmarkdown::render(rmdDir, output_file = '~/AutoReport.html')
 
 }

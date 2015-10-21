@@ -109,7 +109,7 @@ WeekSummary <- function(metrics, table.id, export = FALSE) {
     theme_bw() +
     theme(legend.position="none")
 
-  final.plot
+  plot(final.plot)
   
   #-----------------------------------------------------------------------------
   # Export data
